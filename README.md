@@ -28,3 +28,7 @@ meg.
 legyen laptop méretnél, mobil nézetben pedig egy. A kártyán szerepeljen a 
 megrendelés száma, a megrendelő neve és címe, a termék neve és ára.  
 
+## Munkafolyamat
+> Minden csapat hozzon létre a projekt számára egy saját github repót, ennek 
+címét kell majd a feladatbeadásnál elküldeni nekem. A legegyszerűbb, ha a csapat 
+egyik tagja létrehozza és felveszi a többieket collaborator -nak.
